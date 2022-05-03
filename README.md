@@ -39,7 +39,8 @@ Configuration, Features & Documentation of my Voron Trident VT.572
 - Buildplate: Custom Molex Microfit Panel Mounts (Link to repository soon)
 ### Panels
 - Panels: Expanded PVC Foam Panels (top & sides)
-- Heat Reflection:
+- Heat Reflection: 3mm radiator heat reflection sheets
+- Panel mounting: [Magnetic Panels](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bobbleheed/Magnetic_Panels) (top, sides, door)
 ### Exhaust Solution:
 - Exhaust Solution: Custom carbon filtered top panel outlet with connection to central ventilation (Link to repository soon)
 ### Caselights:
